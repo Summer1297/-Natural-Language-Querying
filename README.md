@@ -10,8 +10,11 @@ This project demonstrates data processing with DuckDB and vector retrieval using
 
 ## Requirements
 `pip install duckdb`
+
 `pip install llama-index`
+
 `pip install llama-index-vector-stores-duckdb`
+
 `pip install duckdb-engine`
 
 ## Quick Start
